@@ -18,4 +18,6 @@ Check server.cfg for other settings.
 
 MAKE SURE YOU USE TXADMIN WITH THIS SERVER or shit will break.
 
+If you need help message me on discord TheBritisBrotherhood#1046
+
 Enjoy.
